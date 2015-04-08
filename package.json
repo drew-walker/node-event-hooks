@@ -1,0 +1,31 @@
+{
+  "name": "node-event-hooks",
+  "version": "0.0.1",
+  "description": "Add custom hooks for before/after require().",
+  "main": "lib/node-event-hooks.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drew-walker/node-event-hooks.git"
+  },
+  "keywords": [
+    "hook",
+    "require",
+    "event"
+  ],
+  "author": "Drew Walker <drew.walker@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drew-walker/node-event-hooks/issues"
+  },
+  "homepage": "https://github.com/drew-walker/node-event-hooks"
+}
